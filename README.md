@@ -35,13 +35,13 @@ This project includes:
 ---
 
 ## Code Summary
-1. Modules Used:
+### 1. Modules Used:
 
     string: Provides predefined character sets (letters, digits, punctuation).
 
     secrets: A cryptographically secure random generator, suitable for passwords.
 
-2. knuth_shuffle(characters: str)
+### 2. knuth_shuffle(characters: str)
 
     Implements the Fisher–Yates shuffle.
 
@@ -49,7 +49,7 @@ This project includes:
 
     Returns a shuffled version of the input string.
 
-3. secure_password_gen(length=16)
+### 3. secure_password_gen(length=16)
 
     Generates a strong, secure password of specified length (default 16).
 
@@ -69,9 +69,9 @@ This project includes:
 
     Finally, shuffles the password using knuth_shuffle to ensure randomness.
 
-✅ Output
+### ✅ Output
 
-Returns a password string that:
+**Returns a password string that:**
 
     1. Meets complexity requirements
 
