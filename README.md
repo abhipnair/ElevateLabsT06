@@ -129,12 +129,12 @@ This project includes:
 ---
 
 ## Analysis
-📷 Password tested on passwordmeter.com
+### 📷 Password tested on passwordmeter.com
     ![Password Meter](images/password_meter.png)
 
-📷 Crack time estimated on howsecureismypassword.net
+### 📷 Crack time estimated on howsecureismypassword.net
     ![Screenshot of the command](images/security.org.png)
 
-📷 Analysis on Kaspersky password checker
+### 📷 Analysis on Kaspersky password checker
     ![Screenshot of the command](images/kaspersky.png)
 
